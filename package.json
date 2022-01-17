@@ -54,5 +54,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "http://shaharkamay.github.io/weather-app-redux-thunk"
+  "homepage": "./"
 }
